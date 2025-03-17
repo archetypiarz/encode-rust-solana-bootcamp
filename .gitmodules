@@ -1,0 +1,3 @@
+[submodule "SolanaBootcamp"]
+	path = SolanaBootcamp
+	url = git@github.com:archetypiarz/SolanaBootcamp.git
